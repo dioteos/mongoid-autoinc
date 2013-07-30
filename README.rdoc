@@ -9,7 +9,7 @@ use 0.3.0 for mongoid 3.0
 
 A mongoid plugin to add auto incrementing fields to your documents.
 
-{<img src="https://secure.travis-ci.org/80beans/mongoid-autoinc.png" />}[http://travis-ci.org/#!/80beans/mongoid-autoinc]
+{<img src="https://travis-ci.org/dioteos/mongoid-autoinc.png" />}[![Build Status](https://travis-ci.org/dioteos/mongoid-autoinc.png)](https://travis-ci.org/dioteos/mongoid-autoinc)
 {<img src="https://codeclimate.com/badge.png" />}[https://codeclimate.com/github/80beans/mongoid-autoinc]
 
 == Installation
